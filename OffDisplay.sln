@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffDisplay", "OffDisplay.csproj", "{B0074CA8-C6B3-4969-8DAE-C134DEE4AE25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0074CA8-C6B3-4969-8DAE-C134DEE4AE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0074CA8-C6B3-4969-8DAE-C134DEE4AE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0074CA8-C6B3-4969-8DAE-C134DEE4AE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0074CA8-C6B3-4969-8DAE-C134DEE4AE25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F16FFE6-C6F1-4A06-9DC5-FF5F2705BA2F}
+	EndGlobalSection
+EndGlobal
